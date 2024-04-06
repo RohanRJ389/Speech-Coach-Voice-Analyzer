@@ -1,10 +1,26 @@
 import { Chart, LinearScale } from 'chart.js/auto';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef ,useState} from 'react';
+import jsonDataFile from './metrics.json';
 
 // Register linear scale
 Chart.register(LinearScale);
 
+
+
 function Metrics() {
+    const [jsonData, setJsonData] = useState({});
+    function fetchJSONData() {
+        setJsonData(JSON.parse(JSON.stringify(jsonDataFile))) 
+    
+    }
+    useEffect(() => {
+        let intrvl = setInterval(fetchJSONData, 2000);
+
+        return () => {
+            clearInterval(intrvl)
+        }
+    })
+
     const metricsData = [
         { name: 'Intensity', values: [10, 20, 30, 40, 50] },
         { name: 'Speech Rate', values: [50, 30, 60, 40, 70] },
@@ -60,7 +76,7 @@ function Metrics() {
     return (
         <div>
             {/* Chart Placeholder */}
-            <input type="text" id="myTextBox" placeholder="Enter text"/>
+          <h2>{jsonData["tip"]}</h2>
             <canvas id="myChart" width="500" height="500"></canvas>
             <div>
             {metricsData.map((metric, index) => (

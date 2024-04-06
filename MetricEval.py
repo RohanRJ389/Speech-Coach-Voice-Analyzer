@@ -13,7 +13,7 @@ import json
 prev_speech_rate = None
 complete_speech = ""
 
-json_file_path = "metrics.json"
+json_file_path = "frontend/src/metrics.json"
 cumulative_json_file_path = "c_metrics.txt"
 
 def generate_tip(metrics):

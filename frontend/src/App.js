@@ -5,6 +5,7 @@ import { useEffect, useState} from "react"
 
 import { WavRecorder  } from 'webm-to-wav-converter';
 
+import Metrics from './Metrics.js';
 // // Create a new WebSocket connection
 // const socket = new WebSocket('ws://127.0.0.1:5000');
 
@@ -163,10 +164,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <Metrics/>
         
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
     {   numBlobs<0 ?  <p>
           Recording is on
         </p> : 

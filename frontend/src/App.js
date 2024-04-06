@@ -5,7 +5,7 @@ import { useEffect, useState} from "react"
 
 import { WavRecorder  } from 'webm-to-wav-converter';
 
-import Metrics from './Metrics.js';
+import LineChart from './LineChart.js';
 // // Create a new WebSocket connection
 // const socket = new WebSocket('ws://127.0.0.1:5000');
 
@@ -167,17 +167,14 @@ function App() {
         <p>
           Recording is off
         </p>}
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <button onClick={startRecording}  >startRecording</button>
-        <button onClick={stopRecording}  >stopRecording</button>
-      <Metrics/>
+        <div style={{"display" : "flex" , "flexDirection" : "row"}} >
+          
+          <button onClick={startRecording} style={{ fontSize: 20 }}  >START </button>
+          <div style={{width : 20}} ></div>
+        <button onClick={stopRecording} style={{fontSize : 20}}  >STOP </button>
+        
+  </div>
+      <LineChart/>
       </header>
 
     </div>

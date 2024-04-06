@@ -4,12 +4,45 @@ import logging
 
 import io
 import wave
-
+import os
 
 from flask_cors import CORS
 
+def create_directory(directory_path):
+    try:
+        # Create directory
+        os.mkdir(directory_path)
+        print(f"Directory '{directory_path}' created successfully.")
+    except FileExistsError:
+        print(f"Directory '{directory_path}' already exists.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+def empty_directory(directory):
+    # Check if the directory exists
+    if os.path.exists(directory):
+        # Iterate over all the files and subdirectories in the directory
+        for file_or_dir in os.listdir(directory):
+            # Construct the full path
+            full_path = os.path.join(directory, file_or_dir)
+            # If it's a file, remove it
+            if os.path.isfile(full_path):
+                os.remove(full_path)
+            # If it's a directory, recursively empty it
+            elif os.path.isdir(full_path):
+                empty_directory(full_path)
+        # Once all files and subdirectories are removed, remove the directory itself
+        os.rmdir(directory)
+        print(f"The directory '{directory}' has been emptied.")
+    else:
+        print(f"The directory '{directory}' does not exist.")
+
+
+
 if __name__=="__main__":
     
+    empty_directory("captured_audio")
+    create_directory("captured_audio")
     app = Flask(__name__ )
     CORS(app)
     socketio = SocketIO(app, cors_allowed_origins = "*")
@@ -39,7 +72,7 @@ def handle_message(message):
     # You can broadcast the message to all connected clients, or perform any other actions here
     socketio.send('Message received: ' + message)
 
-# num = 1
+num = 1
 
 from scipy.signal import hann
 
@@ -63,7 +96,8 @@ import numpy as np
 
 
 def concatenate_bytesio_to_wav(byteio_files, output_file):
-    # global num
+    global num
+    num+=1
     # Open the output WAV file for writing
     with wave.open(output_file, 'wb') as wav_out:
         
@@ -133,7 +167,7 @@ def handle_media(message):
     print(len(window))
     if(len(window)<max_window_size):return # concat file wont be generated
     t1= time.time()
-    concatenate_bytesio_to_wav (window,"concat_output.wav")
+    concatenate_bytesio_to_wav (window,f"captured_audio/concat_output{num}.wav")
     print (f"concatenation finished in { time.time() - t1} seconds" )
     
     

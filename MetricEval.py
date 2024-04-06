@@ -7,8 +7,10 @@ from libraryS2T import speech2Text
 prev_speech_rate = None
 complete_speech = ""
 
-json_file_path = "metrics.json"
+json_file_path = "frontend/src/metrics.json"
 cumulative_json_file_path = "c_metrics.txt"
+
+num =1
 
 weights = {
     "intensity": 0.25,
@@ -31,8 +33,10 @@ def generate_tip(metric_name):
 
 
 def one_iteration():
-    global prev_speech_rate, complete_speech
-    audio_file = "concat_output.wav"
+    global prev_speech_rate, complete_speech, num
+    audio_file = f"captured_audio/concat_output{num}.wav"
+    print(f"serial number {num}")
+    num+=1
     audio = wave.open(audio_file, 'rb')
 
     # Read audio data
@@ -55,7 +59,7 @@ def one_iteration():
 
     # Calculate disfluency rate
     disfluency_rate = calculate_disfluency_rate(text_transcript)
-    print("Disfluency Rate:", disfluency_rate)
+    print("fluency Rate:", 1 - disfluency_rate)
 
     # Calculate speech rate (assuming speech duration is known)
     speech_rate, consistency_score = calculate_speech_rate(text_transcript, audio_file, prev_speech_rate)  # TODO EWMA
@@ -80,7 +84,7 @@ def one_iteration():
     metrics = {
         "intensity": intensity,
         "pitch_variation": pitch_variation,
-        "disfluency_rate": disfluency_rate,
+        "fluency_rate": 1 - disfluency_rate,
         "speech_rate": speech_rate,
         "consistency_score": consistency_score,
         "master_score": master_score,

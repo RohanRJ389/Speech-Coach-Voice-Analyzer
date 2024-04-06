@@ -59,6 +59,12 @@ const LineChart = () => {
       <h2>{jsonData["tip"]}</h2>
       
       <Line data={data} options={options} />
+      <div>
+           Intensity : {jsonData["intensity"]} <br></br>
+           Pitch Variation : {jsonData["pitch_variation"]}<br></br>
+           Fluency Rate : {jsonData["fluency_rate"]}<br></br>
+           Speech Rate : {jsonData["speech_rate"]}
+            </div>
     </div>
   );
 };

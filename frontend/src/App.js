@@ -163,6 +163,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< Updated upstream
         <Router>
           <Routes>
             <Route path='/' element={
@@ -179,6 +180,25 @@ function App() {
             <Route path='/final' element={<Final />} />
           </Routes>
         </Router>
+=======
+  
+        
+    {   numBlobs<0 ?  <p>
+          Recording is on
+        </p> : 
+        <p>
+          Recording is off
+        </p>}
+        <div style={{"display" : "flex" , "flexDirection" : "row"}} >
+          
+          <button onClick={startRecording} style={{ fontSize: 20 }}  >START </button>
+          <div style={{width : 20}} ></div>
+        <button onClick={stopRecording} style={{fontSize : 20}}  >STOP </button>
+        
+  </div>
+        <LineChart />
+       
+>>>>>>> Stashed changes
       </header>
     </div>
   );

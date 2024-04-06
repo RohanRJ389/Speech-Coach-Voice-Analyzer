@@ -13,7 +13,7 @@ def calculate_intensity(audio_data):
     rms = np.sqrt(np.mean(np.square(audio_data)))
     # Normalize RMS amplitude to a range of 0 to 1
     intensity = rms / np.iinfo(audio_data.dtype).max
-    return intensity*100
+    return intensity*100*2.5
 
 # Function to calculate pitch
 def calculate_pitch(audio_file):

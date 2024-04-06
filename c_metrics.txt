@@ -1,262 +1,154 @@
 {}{
-    "intensity": 0.20410686512259804,
-    "pitch_variation": 0.09973829663993632,
+    "intensity": 0.3,
+    "pitch_variation": 0.4,
     "fluency_rate": 1,
     "speech_rate": 0.0,
     "consistency_score": 1,
-    "master_score": 0.07596129044063359,
+    "master_score": 0.2,
     "complete_speech": "",
     "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }{
-    "intensity": 0.20630235144786985,
-    "pitch_variation": 0.03023583621647844,
+    "intensity": 0.3,
+    "pitch_variation": 0.4,
     "fluency_rate": 1,
     "speech_rate": 0.0,
     "consistency_score": 1,
-    "master_score": 0.05913454691608707,
+    "master_score": 0.2,
     "complete_speech": "",
     "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }{
-    "intensity": 0.2070366052651392,
-    "pitch_variation": 0.2027060538394242,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10243566477614086,
-    "complete_speech": "",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.2055912459397962,
-    "pitch_variation": 0.20318172509127144,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10219324275776691,
-    "complete_speech": "",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.2090519430236244,
-    "pitch_variation": 0.23176589407082843,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.1102044592736132,
-    "complete_speech": "",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.19639261408892855,
-    "pitch_variation": 0.23430512721794003,
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
     "fluency_rate": 1.0,
-    "speech_rate": 0.18181818181818182,
+    "speech_rate": 0.3,
     "consistency_score": 1,
-    "master_score": 0.14403807169035351,
-    "complete_speech": "Bhojpuri song",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.18988781966471188,
-    "pitch_variation": 0.2330241717218843,
-    "fluency_rate": 1.0,
-    "speech_rate": 0.2,
-    "consistency_score": 0.8999999999999999,
-    "master_score": 0.14572799784664905,
-    "complete_speech": "Bhojpuri songshow me",
+    "master_score": 0.2,
+    "complete_speech": "you should know",
     "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
 }{
-    "intensity": 0.2033537511147404,
-    "pitch_variation": 0.21902553813875222,
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.3,
+    "consistency_score": 0.9,
+    "master_score": 0.2,
+    "complete_speech": "you should knowyou should now",
+    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.4,
+    "consistency_score": 0.7,
+    "master_score": 0.2,
+    "complete_speech": "you should knowyou should nowwhich line which line",
+    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.4,
+    "consistency_score": 1.0,
+    "master_score": 0.3,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which line",
+    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.2,
+    "consistency_score": 0.5,
+    "master_score": 0.2,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internal",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.2,
+    "consistency_score": 1.0,
+    "master_score": 0.2,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internal",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.6,
+    "consistency_score": -0.7,
+    "master_score": 0.3,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updating",
+    "tip": "I'm not sure what feedback to give at the moment."
+}{
+    "intensity": 0.2,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 1.1,
+    "consistency_score": 0.2,
+    "master_score": 0.4,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chan",
+    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.7,
+    "consistency_score": 0.6,
+    "master_score": 0.3,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed point",
+    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.2,
     "fluency_rate": 1,
     "speech_rate": 0.0,
     "consistency_score": 0.0,
-    "master_score": 0.10559482231337317,
-    "complete_speech": "Bhojpuri songshow me",
+    "master_score": 0.1,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed point",
     "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }{
-    "intensity": 0.20512110596515426,
-    "pitch_variation": 0.1679724012967796,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.09327337681548346,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.2052479305518665,
-    "pitch_variation": 0.20278607204699078,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10200850064971431,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.1985798558136406,
-    "pitch_variation": 0.2266842893779359,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10631603629789413,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.18598024848678307,
-    "pitch_variation": 0.23953262208286158,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10637821764241116,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.1835197025082362,
-    "pitch_variation": 0.2432855756308773,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10670131953477838,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.1857109970317824,
-    "pitch_variation": 0.2338781295739896,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10489728165144299,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.1753523344902518,
-    "pitch_variation": 0.2485890027811303,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10598533431784553,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.16888744695848648,
-    "pitch_variation": 0.25105999819472513,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.1049868612883029,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.17590244582154055,
-    "pitch_variation": 0.26238377679134545,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.10957155565322149,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.17297830688550558,
-    "pitch_variation": 0.28472898915095396,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.11442682400911489,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.1747692973548432,
-    "pitch_variation": 0.3092920351941941,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.12101533313725933,
-    "complete_speech": "Bhojpuri songshow me",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
-}{
-    "intensity": 0.17089996700185073,
-    "pitch_variation": 0.3360090162526506,
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
     "fluency_rate": 1.0,
-    "speech_rate": 0.2222222222222222,
+    "speech_rate": 0.8,
     "consistency_score": 1,
-    "master_score": 0.17117169025806978,
-    "complete_speech": "Bhojpuri songshow mewhat is",
+    "master_score": 0.3,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed pointbut the transcript is the same ok",
     "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
 }{
-    "intensity": 0.176463850480078,
-    "pitch_variation": 0.2712120080560868,
-    "fluency_rate": 1.0,
-    "speech_rate": 0.2222222222222222,
-    "consistency_score": 1.0,
-    "master_score": 0.15636340907848564,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat is",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 1,
+    "speech_rate": 0.0,
+    "consistency_score": 0.0,
+    "master_score": 0.1,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed pointbut the transcript is the same ok",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }{
-    "intensity": 0.17145861346731164,
-    "pitch_variation": 0.23089269484774286,
-    "fluency_rate": 1.0,
-    "speech_rate": 0.8888888888888888,
-    "consistency_score": -2.0,
-    "master_score": 0.2783656048565414,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but that",
-    "tip": "I'm not sure what feedback to give at the moment."
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "master_score": 0.1,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed pointbut the transcript is the same ok",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }{
-    "intensity": 0.15127331552086326,
-    "pitch_variation": 0.21778760557438795,
-    "fluency_rate": 1.0,
-    "speech_rate": 1.0,
-    "consistency_score": 0.875,
-    "master_score": 0.2922652302738128,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that really",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+    "intensity": 0.5,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "master_score": 0.2,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed pointbut the transcript is the same ok",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }{
-    "intensity": 0.15815881551355082,
-    "pitch_variation": 0.22760599977122317,
-    "fluency_rate": 1.0,
-    "speech_rate": 0.6666666666666666,
-    "consistency_score": 0.6666666666666666,
-    "master_score": 0.22977453715452684,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that reallyno but like this animation look",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
-}{
-    "intensity": 0.1715191225709852,
-    "pitch_variation": 0.2248886191595585,
-    "fluency_rate": 1.0,
-    "speech_rate": 1.1111111111111112,
-    "consistency_score": 0.33333333333333315,
-    "master_score": 0.32132415765485817,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that reallyno but like this animation lookno but like this animation where is the text box",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
-}{
-    "intensity": 0.17499847342778557,
-    "pitch_variation": 0.2626950334651965,
-    "fluency_rate": 1.0,
-    "speech_rate": 0.6666666666666666,
-    "consistency_score": 0.5999999999999999,
-    "master_score": 0.24275671005657884,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that reallyno but like this animation lookno but like this animation where is the text boxwhere is the text box accident",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
-}{
-    "intensity": 0.1720767759008684,
-    "pitch_variation": 0.23118188835922215,
-    "fluency_rate": 1.0,
-    "speech_rate": 1.1111111111111112,
-    "consistency_score": 0.33333333333333315,
-    "master_score": 0.32303688828724486,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that reallyno but like this animation lookno but like this animation where is the text boxwhere is the text box accidentI guess after BE assigned way it should start songs",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
-}{
-    "intensity": 0.1567851068012097,
-    "pitch_variation": 0.234111719336994,
-    "fluency_rate": 0.8888888888888888,
-    "speech_rate": 0.9,
-    "consistency_score": 0.81,
-    "master_score": 0.3110575398678843,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that reallyno but like this animation lookno but like this animation where is the text boxwhere is the text box accidentI guess after BE assigned way it should start songsyou should start it actually simultaneously then it was",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
-}{
-    "intensity": 0.1515966187197516,
-    "pitch_variation": 0.2736087455995211,
-    "fluency_rate": 0.9090909090909091,
-    "speech_rate": 1.0,
-    "consistency_score": 0.888888888888889,
-    "master_score": 0.33357406835254544,
-    "complete_speech": "Bhojpuri songshow mewhat iswhat isSchool like the animation look school but thatSchool like the animation look school but that reallyno but like this animation lookno but like this animation where is the text boxwhere is the text box accidentI guess after BE assigned way it should start songsyou should start it actually simultaneously then it wasstart actually simultaneously then it was can we create a best",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "master_score": 0.2,
+    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed pointbut the transcript is the same ok",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
 }

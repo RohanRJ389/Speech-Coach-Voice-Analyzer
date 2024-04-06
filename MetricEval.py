@@ -82,12 +82,12 @@ def one_iteration():
     # metrics["tip"] = tip
     # File path to save the JSON file
     metrics = {
-        "intensity": intensity,
-        "pitch_variation": pitch_variation,
-        "fluency_rate": 1 - disfluency_rate,
-        "speech_rate": speech_rate,
-        "consistency_score": consistency_score,
-        "master_score": master_score,
+        "intensity": round(intensity,1),
+        "pitch_variation": round(pitch_variation,1),
+        "fluency_rate": 1 - round(disfluency_rate,1),
+        "speech_rate": round(speech_rate,1),
+        "consistency_score": round(consistency_score,1),
+        "master_score": round(master_score,1),
         "complete_speech": complete_speech
     }
     if master_score < threshold:

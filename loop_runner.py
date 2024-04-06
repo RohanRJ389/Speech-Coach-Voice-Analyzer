@@ -8,7 +8,7 @@ import numpy as  np
 
 from assemblyAIS2T import speech2Text
 
-from back import get_loop_status
+# from back import get_loop_status
 
 if __name__=="__main__":
     
@@ -19,9 +19,9 @@ if __name__=="__main__":
 
 
     while True:
-        while not get_loop_status():
+        # while not get_loop_status():
             
-            time.sleep(3)
+        #     time.sleep(3)
         
         audio_file = "concat_output.wav"
         audio = wave.open(audio_file, 'rb')

@@ -6,7 +6,7 @@ from features import calculate_disfluency_rate , calculate_speech_rate #sentence
 import wave
 import numpy as  np
 
-from voskS2T import speech2Text
+from assemblyAIS2T import speech2Text
 
 import json
 

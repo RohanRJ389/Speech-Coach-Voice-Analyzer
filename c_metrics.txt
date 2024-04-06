@@ -1,316 +1,217 @@
 {}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
+    "speech_rate": 1.3571428571428572,
     "consistency_score": 1,
-    "complete_speech": "are being used for a covert nineteen vaccine"
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machines",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 1.2142857142857142,
+    "consistency_score": 0.894736842105263,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah change",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 1.3571428571428572,
+    "consistency_score": 0.8823529411764705,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machines",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 1.2142857142857142,
+    "consistency_score": 0.894736842105263,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah change",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
+    "speech_rate": 1.2142857142857142,
     "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah change",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 1.2857142857142858,
+    "consistency_score": 0.9411764705882352,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rush",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011830363482733042,
+    "pitch_variation": 0.19700284491549944,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 1.1333333333333333,
+    "consistency_score": 0.8814814814814814,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah change",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0016305264617203692,
+    "pitch_variation": 0.18859851437167074,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.3125,
+    "consistency_score": 0.2757352941176471,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne their",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0013804592869495797,
+    "pitch_variation": 0.20887148470513053,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.4375,
+    "consistency_score": 0.6,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch now",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0015462210475953682,
+    "pitch_variation": 0.17998768385687308,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.625,
+    "consistency_score": 0.5714285714285714,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now show",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0015462210475953682,
+    "pitch_variation": 0.17998768385687308,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.5882352941176471,
+    "consistency_score": 0.9411764705882353,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now show",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.001589370304624351,
+    "pitch_variation": 0.16619626750251976,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.5625,
+    "consistency_score": 0.9562499999999999,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each show",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0016709639229953,
+    "pitch_variation": 0.17816669123271542,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.25,
+    "consistency_score": 0.4444444444444444,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0015354765753911408,
+    "pitch_variation": 0.20455851907979636,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.4375,
+    "consistency_score": 0.25,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shop",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0013934531009287443,
+    "pitch_variation": 0.24382688300284888,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.4117647058823529,
+    "consistency_score": 0.9411764705882353,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a change",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0012645727267517426,
+    "pitch_variation": 0.26410849950588644,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.4375,
+    "consistency_score": 0.9375,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a change",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0013978977272340386,
+    "pitch_variation": 0.2861498316063631,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.3125,
+    "consistency_score": 0.7142857142857143,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0015795762246242626,
+    "pitch_variation": 0.264990294058238,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.35294117647058826,
+    "consistency_score": 0.8705882352941176,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "intensity": 0.0015729187764316871,
+    "pitch_variation": 0.2025293237655587,
+    "disfluency_rate": 0,
+    "speech_rate": 0.0,
+    "consistency_score": 0.0,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "intensity": 0.0014360267126654537,
+    "pitch_variation": 0.23862527810899534,
+    "disfluency_rate": 0,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "intensity": 0.001347281969201505,
+    "pitch_variation": 0.21582112882506013,
+    "disfluency_rate": 0,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "intensity": 0.0011058220986726905,
+    "pitch_variation": 0.22883280118673044,
+    "disfluency_rate": 0,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "intensity": 0.001107445840324162,
+    "pitch_variation": 0.2574481702882068,
+    "disfluency_rate": 0,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "intensity": 0.0011070418245265306,
+    "pitch_variation": 0.314247723447837,
+    "disfluency_rate": 0,
+    "speech_rate": 0.0,
+    "consistency_score": 1,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0012081918396202873,
+    "pitch_variation": 0.2715444257023767,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.23529411764705882,
+    "consistency_score": 1,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shhshh shh shh shh",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0012173507982249279,
+    "pitch_variation": 0.20272267662293783,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.4117647058823529,
+    "consistency_score": 0.2500000000000001,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shhshh shh shh shhshh shh shh shh watch and ah",
+    "tip": "Your voice is too feeble !"
 }{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
+    "intensity": 0.0011327021894729197,
+    "pitch_variation": 0.185792992712317,
     "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
-}{
-    "intensity": 0.0008119225120841631,
-    "pitch_variation": 0.13890580157768764,
-    "disfluency_rate": 0.0,
-    "speech_rate": 2.6666666666666665,
-    "consistency_score": 1.0,
-    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+    "speech_rate": 0.47058823529411764,
+    "consistency_score": 0.8571428571428571,
+    "complete_speech": "now she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah change machinesnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changenow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah rush rushnow she ah ah ah ah ah ah ah ah ah ah ah ah ah ah changei wish lists cheyenne theiroh gosh i wish to watch nowoh gosh oh gosh i sure to watch now showoh gosh oh gosh i shared to watch now showyou should i shared a watch on each showshh shh shh shhshh shh it's lush photo shopshh photo shop or for a changephoto shop each stage for a changeshh shh shh shh shhshh shh shh shh shh shhshh shh shh shhshh shh shh shh watch and ahshh shh shh watch ah rong of hand",
+    "tip": "Your voice is too feeble !"
 }

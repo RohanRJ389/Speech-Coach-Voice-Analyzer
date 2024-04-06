@@ -3,9 +3,9 @@
 
 from vosk import KaldiRecognizer,Model
 import wave
-# model = Model(r"C:\Users\Sathvik Malgikar\Downloads\vosk-model-en-us-0.22\vosk-model-en-us-0.22")
-model = Model(r"C:\Users\Sathvik Malgikar\Downloads\vosk-model-en-us-0.22\vosk-model-small-en-us-0.15")
-recognizer = KaldiRecognizer(model,16000)
+model = Model(r"C:\Users\Sathvik Malgikar\Downloads\vosk-model-en-us-0.22\vosk-model-en-us-0.22")
+# model = Model(r"C:\Users\Sathvik Malgikar\Downloads\vosk-model-en-us-0.22\vosk-model-small-en-us-0.15")
+recognizer = KaldiRecognizer(model,1600)
 
 
 def speech2Text(speechFile):

@@ -59,11 +59,6 @@ function blobToBase64(blob, callback) {
 
 let wavRecorder 
 
-
-
-
-
-
 let recordingMode = false
 
 // this will initialize global mediaRecorder
@@ -164,7 +159,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Metrics/>
+  
         
     {   numBlobs<0 ?  <p>
           Recording is on
@@ -182,7 +177,9 @@ function App() {
         </a>
         <button onClick={startRecording}  >startRecording</button>
         <button onClick={stopRecording}  >stopRecording</button>
+      <Metrics/>
       </header>
+
     </div>
   );
 }

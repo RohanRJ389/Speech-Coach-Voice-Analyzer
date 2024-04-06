@@ -120,7 +120,7 @@ def base64_to_blob(base64_string):
 
 if __name__=="__main__":
     window =[]
-    max_window_size = 3
+    max_window_size = 2
 
 
 @socketio.on('media')

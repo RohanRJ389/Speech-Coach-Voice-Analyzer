@@ -2,7 +2,7 @@ import json
 import wave
 import numpy as np
 from features import calculate_intensity, calculate_pitch_variation, calculate_disfluency_rate, calculate_speech_rate
-from assemblyAIS2T import speech2Text
+from libraryS2T import speech2Text
 #checking if this gets reflected
 prev_speech_rate = None
 complete_speech = ""
@@ -120,4 +120,4 @@ if __name__ == "__main__":
     with open(cumulative_json_file_path, "w") as json_file:
         json_file.write("{}")
     while True:
-        one_iteration()
+       one_iteration()

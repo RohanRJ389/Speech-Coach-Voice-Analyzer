@@ -1,11 +1,15 @@
 
 import './App.css';
-
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { useEffect, useState} from "react"
+import Metric from './Metrics.js'
+import Final from './FinalPage.js'
+import LineChart from './LineChart.js';
+
 
 import { WavRecorder  } from 'webm-to-wav-converter';
 
-import LineChart from './LineChart.js';
+
 // // Create a new WebSocket connection
 // const socket = new WebSocket('ws://127.0.0.1:5000');
 
@@ -159,27 +163,26 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-  
-        
-    {   numBlobs<0 ?  <p>
-          Recording is on
-        </p> : 
-        <p>
-          Recording is off
-        </p>}
-        <div style={{"display" : "flex" , "flexDirection" : "row"}} >
-          
-          <button onClick={startRecording} style={{ fontSize: 20 }}  >START </button>
-          <div style={{width : 20}} ></div>
-        <button onClick={stopRecording} style={{fontSize : 20}}  >STOP </button>
-        
-  </div>
-      <LineChart/>
-      
+        <Router>
+          <Routes>
+            <Route path='/' element={
+              <div>
+                {numBlobs < 0 ? <p>Recording is on</p> : <p>Recording is off</p>}
+                <div style={{ display: "flex", flexDirection: "row" }}>
+                  <button onClick={startRecording} style={{ fontSize: 20 }}>START</button>
+                  <div style={{ width: 20 }}></div>
+                  <button onClick={stopRecording} style={{ fontSize: 20 }}>STOP</button>
+                </div>
+                <LineChart />
+              </div>
+            } />
+            <Route path='/final' element={<Final />} />
+          </Routes>
+        </Router>
       </header>
-
     </div>
   );
-}
+  
+}  
 
 export default App;

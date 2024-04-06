@@ -38,8 +38,7 @@ def calculate_pitch_variation(audio_file):
 # Function to detect pauses
 def detect_pauses(audio_data, threshold=0.05, min_pause_duration=0.1):
     # Convert audio data to mono and normalize
-    audio_mono = audio_data.mean(axis=1)
-    audio_normalized = audio_mono / np.max(np.abs(audio_mono))
+    audio_normalized = audio_data / np.max(np.abs(audio_data))
     # Detect pauses using threshold
     pauses = np.where(audio_normalized < threshold)[0]
     # Filter out short pauses
@@ -57,15 +56,20 @@ def detect_pauses(audio_data, threshold=0.05, min_pause_duration=0.1):
     pause_frequency = len(pause_durations) / len(audio_normalized)
     return total_pause_duration, pause_frequency
 
-# Function to calculate disfluency rate (filler words)
 def calculate_disfluency_rate(sentence):
+    # Define the regex pattern to capture disfluencies
+    disfluency_pattern = r'\b(?:uh+h*|um+m*|err*|you\s+know|well|so|i\s+mean|basically|actually|kind\s+of|sort\s+of|anyway|right|okay)\b'
+    
     # Count disfluencies
-    disfluencies = re.findall(r'\b(?:uh+h*|um+m*|like)\b', sentence.lower())
+    disfluencies = re.findall(disfluency_pattern, sentence.lower())
     disfluency_count = len(disfluencies)
+    
     # Calculate disfluency rate
     word_count = len(re.findall(r'\w+', sentence))
-    disfluency_rate = (disfluency_count / word_count) * 100 if word_count != 0 else 0
+    disfluency_rate = (disfluency_count / word_count)  if word_count != 0 else 0
+    
     return disfluency_rate
+
 
 # Function to calculate speech rate
 def calculate_speech_rate(sentence, speech_duration, prev_speech_rate=None):
@@ -81,7 +85,7 @@ def calculate_speech_rate(sentence, speech_duration, prev_speech_rate=None):
     return speech_rate, consistency_score
 
 # Load audio file
-audio_file = "example.wav"
+audio_file = "first.wav"
 audio = wave.open(audio_file, 'rb')
 
 # Read audio data
@@ -112,7 +116,7 @@ print("Total Pause Duration:", total_pause_duration)
 print("Pause Frequency:", pause_frequency)
 
 # Example sentence for filler words and speech rate calculation
-sentence = "Um, like, I uh think that, um, we should, you know, uh, do something."
+sentence = "Um, like, I uh think that,actually, err um, we should, you know, uh, do something."
 
 # Calculate disfluency rate
 disfluency_rate = calculate_disfluency_rate(sentence)

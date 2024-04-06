@@ -73,29 +73,36 @@ def one_iteration():
 
     # Check for low master score and determine feedback
     threshold = 0.6  # Adjust the threshold as needed
-    if master_score < threshold:
-        rounded_scores = {metric: round(value, 1) for metric, value in metrics.items() if metric != "master_score"}
-        lowest_metric = min(rounded_scores, key=rounded_scores.get)
-        # If there's a tie, prioritize based on weight
-        tied_metrics = [metric for metric, score in rounded_scores.items() if score == rounded_scores[lowest_metric]]
-        if len(tied_metrics) > 1:
-            lowest_metric = max(tied_metrics, key=weights.get)
-        tip = generate_tip(lowest_metric)
-    else:
-        tip = "Sounding good! Keep it up."
 
-    metrics["tip"] = tip
+
+    # metrics["tip"] = tip
     # File path to save the JSON file
     metrics = {
-        "intensity" : round(intensity,1),
-        "pitch_variation" : round(pitch_variation,1),
-        "disfluency_rate"  : round(disfluency_rate,1),
-        "speech_rate" : round(speech_rate,1),
-        "consistency_score" : round(consistency_score,1),
-        "master_score": round(master_score,1),  
-        "complete_speech" : round(complete_speech,1)
+        "intensity": intensity,
+        "pitch_variation": pitch_variation,
+        "disfluency_rate": disfluency_rate,
+        "speech_rate": speech_rate,
+        "consistency_score": consistency_score,
+        "master_score": master_score,
+        "complete_speech": complete_speech
     }
-    tip = generate_tip(metrics)
+    if master_score < threshold:
+        # Exclude 'complete_speech' from metrics for finding the lowest metric
+        metrics_to_evaluate = {metric: value for metric, value in metrics.items() if metric != "master_score" and metric != "complete_speech"}
+        if metrics_to_evaluate:
+            # Find the lowest metric
+            lowest_metric = min(metrics_to_evaluate, key=metrics_to_evaluate.get)
+            # Generate tip based on the lowest metric
+            tip = generate_tip(lowest_metric)
+        else:
+            # If there are no metrics to evaluate, provide a default tip
+            tip = "Sounding good! Keep it up."
+    else:
+        # If the master score is above the threshold, provide positive feedback
+        tip = "Sounding good! Keep it up."
+    
+
+    # tip = generate_tip(metrics)
     metrics["tip"] = tip
 
     # Write metrics to JSON file

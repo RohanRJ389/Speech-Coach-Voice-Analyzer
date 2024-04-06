@@ -3,6 +3,7 @@ import './App.css';
 
 import { useEffect} from "react"
 
+import { getWaveBlob } from 'webm-to-wav-converter';
 
 // // Create a new WebSocket connection
 // const socket = new WebSocket('ws://127.0.0.1:5000');
@@ -39,8 +40,8 @@ socket.on('close', function (event) {
     console.log('WebSocket connection closed');
 });
 
-function blobToBase64(blob, callback) {
-  blob = new Blob([blob], { type: 'audio/wav' });
+async function blobToBase64(blob, callback) {
+  blob = await getWaveBlob(blob,true);
   console.log("after cast to wav")
   console.log(blob)
   var reader = new FileReader();

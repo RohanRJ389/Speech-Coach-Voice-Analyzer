@@ -60,7 +60,7 @@ def concatenate_bytesio_to_wav(byteio_files, output_file):
                 # wav_in.close()
                 
                 # Set the parameters for the output WAV file
-                wav_out.setparams((1, 2, 1600, 0, 'NONE', 'compressed'))
+                wav_out.setparams((2, 2, 48000, 48000, 'NONE', 'not compressed'))
             
             # Write the content of the BytesIO file to the output WAV file
             wav_out.writeframes(content)
@@ -85,7 +85,7 @@ def base64_to_blob(base64_string):
     
     return blob_file
 
-max_window_size =4
+max_window_size = 16
 
 @socketio.on('media')
 def handle_media(message):

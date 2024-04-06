@@ -32,9 +32,30 @@ def handle_message(message):
     socketio.send('Message received: ' + message)
 
 window =[]
-max_window_size = 10
+max_window_size = 5
+
+num = 1
+
+from scipy.signal import hann
+
+def apply_fade(data):
+    fade_len = 50
+    fade_in_window = hann(fade_len * 2)[:fade_len]
+    fade_out_window = hann(fade_len * 2)[fade_len:]
+
+    # Create a writable copy of the data array
+    data = data.astype(np.float64)
+
+    # Apply fade-in and fade-out effects
+    data[:fade_len] *= fade_in_window
+    data[-fade_len:] *= fade_out_window
+    
+    return data.astype(np.int16)
+
 
 import wave
+import numpy as np
+
 
 def concatenate_bytesio_to_wav(byteio_files, output_file):
     
@@ -61,8 +82,12 @@ def concatenate_bytesio_to_wav(byteio_files, output_file):
                 # wav_in.close()
                 
                 # Set the parameters for the output WAV file
-                wav_out.setparams((2, 2, 48000//2, 16000//2, 'NONE', 'compressed'))
+                wav_out.setparams((2, 2, 48000//2, 48000//5//2, 'NONE', 'compressed'))
             
+            content_array = np.frombuffer(content, dtype=np.int16)
+            content_array = apply_fade(content_array)
+            content = content_array.tobytes()
+
             # Write the content of the BytesIO file to the output WAV file
             wav_out.writeframes(content)
     

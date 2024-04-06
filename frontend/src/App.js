@@ -64,42 +64,46 @@ console.log("took a clip")
   // To start recording
   wavRecorder.start();
   
-  // To stop recording
-  wavRecorder.stop();
+  setTimeout(() => {
+    wavRecorder.stop();
   
-  // // To get the wav Blob in 32-bit encoding with AudioContext options
-  wavRecorder.getBlob(false, { sampleRate: 48000 }).then(wavBlob => {
-    
-    if (wavBlob) {
+  
+    // // To get the wav Blob in 32-bit encoding with AudioContext options
+    wavRecorder.getBlob(false, { sampleRate: 48000 }).then(wavBlob => {
       
-      console.log(wavBlob)
-      
-      blobToBase64(wavBlob, (b64encoding => {
+      if (wavBlob) {
         
-        socket.emit("media", b64encoding)
-        // console.log(b64encoding)
-      }))
-      
-    }
-    })
-  
-  // To download the wav file in 32-bit encoding with AudioContext options
-  wavRecorder.download('myFile.wav',true, { sampleRate:  48000 });
+        console.log(wavBlob)
+        
+        blobToBase64(wavBlob, (b64encoding => {
+          
+          socket.emit("media", b64encoding)
+          // console.log(b64encoding)
+        }))
+      }
+      if (recordingMode) {
+        recordOneSec()
+      }
+      })
+    }, 1000  * clipDuration);
 
+
+  // // To download the wav file in 32-bit encoding with AudioContext options
+  // wavRecorder.download('myFile.wav',true, { sampleRate:  48000 });
 }
 
-let clipDuration = 3
+let clipDuration = 5  
 
 function startRecording() {
   
   recordingMode = true
-  recInterval = setInterval(recordOneSec,clipDuration * 1000)
+  recordOneSec()
 
 }
 function stopRecording() {
   
    
-  clearInterval(recInterval)  
+   
   recordingMode = false;
 }
 
@@ -107,7 +111,6 @@ function stopRecording() {
 
 
 let recordingMode = false
-let recInterval = null
 
 // this will initialize global mediaRecorder
 function initializeMic() {

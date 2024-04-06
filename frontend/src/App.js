@@ -39,10 +39,22 @@ socket.on('close', function (event) {
     console.log('WebSocket connection closed');
 });
 
+function blobToBase64(blob, callback) {
+  blob = new Blob([blob], { type: 'audio/wav' });
+  console.log("after cast to wav")
+  console.log(blob)
+  var reader = new FileReader();
+  reader.readAsDataURL(blob);
+  reader.onloadend = function() {
+      var base64Data = reader.result;
+      // Remove the prefix (data:image/png;base64,) from the base64 string if needed
+      // For example, if the blob is an audio file, you might not have an image prefix.
+      var base64WithoutPrefix = base64Data.split(',')[1];
+      callback(base64WithoutPrefix);
+  }
+}
 
 function startRecording() {
-
-  
   
   // navigator.mediaDevices.enumerateDevices().then(data => console.log(data))
   if (mediaRecorder == null) {
@@ -54,8 +66,11 @@ function startRecording() {
   
   mediaRecorder.ondataavailable = (e) => {
     
-    socket.emit("media", e.data)
-    console.log(e.data)
+    blobToBase64(e.data, (b64encoding => {
+      
+      socket.emit("media", b64encoding)
+      // console.log(b64encoding)
+    }))
     
   };
 }

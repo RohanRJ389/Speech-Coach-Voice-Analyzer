@@ -60,13 +60,13 @@ def one_iteration():
    
     
     metrics = {
-        "intensity" : intensity,
-        "pitch_variation" : pitch_variation,
-        "disfluency_rate"  : disfluency_rate,
-        "speech_rate" : speech_rate,
-        "consistency_score" : consistency_score,
-        "master_score":master_score,  
-        "complete_speech" : complete_speech
+      "intensity" : round(intensity,1),
+    "pitch_variation" : round(pitch_variation,1),
+    "disfluency_rate"  : round(disfluency_rate,1),
+    "speech_rate" : round(speech_rate,1),
+    "consistency_score" : round(consistency_score,1),
+    "master_score": round(master_score,1),  
+    "complete_speech" : round(complete_speech,1)
     }
     tip = generate_tip(metrics)
     metrics["tip"] = tip

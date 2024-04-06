@@ -175,6 +175,7 @@ function App() {
         
   </div>
       <LineChart/>
+      
       </header>
 
     </div>

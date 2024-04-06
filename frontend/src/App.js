@@ -68,7 +68,7 @@ console.log("took a clip")
   wavRecorder.stop();
   
   // To get the wav Blob in 32-bit encoding with AudioContext options
-  wavRecorder.getBlob(true, { sampleRate: 48000 }).then(wavBlob => {
+  wavRecorder.getBlob(false, { sampleRate: 16000 }).then(wavBlob => {
     
     if (wavBlob) {
       

@@ -4,14 +4,18 @@ import logging
 
 import io
 import wave
-from pydub import AudioSegment
 
+def get_loop_status():
+    global loop_should_run
+    return loop_should_run
 
 from flask_cors import CORS
 
-app = Flask(__name__ )
-CORS(app)
-socketio = SocketIO(app, cors_allowed_origins = "*")
+if __name__=="__main__":
+    
+    app = Flask(__name__ )
+    CORS(app)
+    socketio = SocketIO(app, cors_allowed_origins = "*")
 
 # Route to serve the HTML page with the JavaScript WebSocket code
 @app.route('/')
@@ -27,12 +31,16 @@ def handle_connect():
 # Event handler for when a client sends a message via WebSocket
 @socketio.on('message')
 def handle_message(message):
+    global loop_should_run
+    if message == "RECORD STOP":
+        loop_should_run=False
+    elif message == "RECORD START":
+        loop_should_run=True
     print('Received message:', message)
     # You can broadcast the message to all connected clients, or perform any other actions here
     socketio.send('Message received: ' + message)
 
-window =[]
-max_window_size = 3
+
 
 # num = 1
 
@@ -113,6 +121,9 @@ def base64_to_blob(base64_string):
     
     return blob_file
 
+if __name__=="__main__":
+    window =[]
+    max_window_size = 3
 
 
 @socketio.on('media')
@@ -137,5 +148,6 @@ def handle_disconnect():
     print('Client disconnected')
 
 if __name__ == '__main__':
+  
     socketio.run(app   )
     # app.run(debug=True)

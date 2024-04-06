@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import { useEffect} from "react"
+import { useEffect, useState} from "react"
 
 import { WavRecorder  } from 'webm-to-wav-converter';
 
@@ -58,54 +58,7 @@ function blobToBase64(blob, callback) {
 
 let wavRecorder 
 
-function recordOneSec() {
 
-console.log("took a clip")
-  // To start recording
-  wavRecorder.start();
-  
-  setTimeout(() => {
-    wavRecorder.stop();
-  
-  
-    // // To get the wav Blob in 32-bit encoding with AudioContext options
-    wavRecorder.getBlob(false, { sampleRate: 48000 }).then(wavBlob => {
-      
-      if (wavBlob) {
-        
-        console.log(wavBlob)
-        
-        blobToBase64(wavBlob, (b64encoding => {
-          
-          socket.emit("media", b64encoding)
-          // console.log(b64encoding)
-        }))
-      }
-      if (recordingMode) {
-        recordOneSec()
-      }
-      })
-    }, 1000  * clipDuration);
-
-
-  // // To download the wav file in 32-bit encoding with AudioContext options
-  // wavRecorder.download('myFile.wav',true, { sampleRate:  48000 });
-}
-
-let clipDuration = 5  
-
-function startRecording() {
-  
-  recordingMode = true
-  recordOneSec()
-
-}
-function stopRecording() {
-  
-   
-   
-  recordingMode = false;
-}
 
 
 
@@ -113,37 +66,91 @@ function stopRecording() {
 let recordingMode = false
 
 // this will initialize global mediaRecorder
-function initializeMic() {
-   
-  if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
-    console.log("getUserMedia supported.");
-    navigator.mediaDevices
-      .getUserMedia(
-        // constraints - only audio needed for this app
-        {
-          audio: true,
-        },
-      )
-  
-      // Success callback
-      .then((stream) => {
-        wavRecorder = new WavRecorder();// GLOBAL wavRecorder
-        
-        // console.log(mediaRecorder)
-        
-
-      })
-  
-      // Error callback
-      .catch((err) => {
-        console.error(`The following getUserMedia error occurred: ${err}`);
-      });
-  } else {
-    console.log("getUserMedia not supported on your browser!");
-  }
-}
 
 function App() {
+  
+  
+  let clipDuration = 5  
+  
+  function startRecording() {
+    
+    recordingMode = true
+    recordOneSec()
+    socket.emit("message","RECORD START")
+  
+  }
+  function stopRecording() {
+    
+    socket.emit("message","RECORD STOP")
+     
+    recordingMode = false;
+  }
+  function initializeMic() {
+     
+    if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+      console.log("getUserMedia supported.");
+      navigator.mediaDevices
+        .getUserMedia(
+          // constraints - only audio needed for this app
+          {
+            audio: true,
+          },
+        )
+    
+        // Success callback
+        .then((stream) => {
+          wavRecorder = new WavRecorder();// GLOBAL wavRecorder
+          
+          // console.log(mediaRecorder)
+          
+  
+        })
+    
+        // Error callback
+        .catch((err) => {
+          console.error(`The following getUserMedia error occurred: ${err}`);
+        });
+    } else {
+      console.log("getUserMedia not supported on your browser!");
+    }
+  }
+  const [numBlobs, setnumBlobs] = useState(2)
+
+  function recordOneSec() {
+
+    console.log("took a clip")
+    setnumBlobs(prev=>prev-1)
+    // To start recording
+    wavRecorder.start();
+    
+    setTimeout(() => {
+      wavRecorder.stop();
+    
+    
+      // // To get the wav Blob in 32-bit encoding with AudioContext options
+      wavRecorder.getBlob(false, { sampleRate: 48000 }).then(wavBlob => {
+        
+        if (wavBlob) {
+
+          console.log(wavBlob)
+          
+          blobToBase64(wavBlob, (b64encoding => {
+            
+            socket.emit("media", b64encoding)
+            // console.log(b64encoding)
+          }))
+        }
+        if (recordingMode) {
+          recordOneSec()
+        }
+        })
+      }, 1000  * clipDuration);
+  
+  
+    // // To download the wav file in 32-bit encoding with AudioContext options
+    // wavRecorder.download('myFile.wav',true, { sampleRate:  48000 });
+  }
+  
 
   useEffect(() => {
     initializeMic()
@@ -160,6 +167,12 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+    {   numBlobs<0 ?  <p>
+          Recording is on
+        </p> : 
+        <p>
+          Recording is off
+        </p>}
         <a
           className="App-link"
           href="https://reactjs.org"

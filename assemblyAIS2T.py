@@ -12,4 +12,10 @@ transcriber = aai.Transcriber()
 def speech2Text(speechFile):
     transcript = transcriber.transcribe("./"+speechFile)
     print ( transcript.text)
+    if transcript.text is  None:
+        return ""
     return (transcript.text)
+
+
+if __name__ == "__main__":
+   speech2Text("first.wav")

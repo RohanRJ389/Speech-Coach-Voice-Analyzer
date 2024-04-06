@@ -3,6 +3,10 @@ import numpy as np
 import re
 import parselmouth
 
+# Parameters for pitch normalization
+min_pitch = 50  # Minimum pitch in Hz
+max_pitch = 500  # Maximum pitch in Hz
+
 # Function to calculate intensity
 def calculate_intensity(audio_data):
     # Calculate root mean square (RMS) amplitude
@@ -72,9 +76,18 @@ def calculate_disfluency_rate(sentence):
 
 
 # Function to calculate speech rate
-def calculate_speech_rate(sentence, speech_duration, prev_speech_rate=None):
+def calculate_speech_rate(transcript, file_name, prev_speech_rate=None):
+    
+    speech_duration = None
+    #to find duration 
+    
+
+    with wave.open(file_name) as mywav:
+        speech_duration = mywav.getnframes() // mywav.getframerate()
+        print(f"Length of the WAV file: {speech_duration:.1f} s")
+    
     # Count words
-    word_count = len(re.findall(r'\w+', sentence))
+    word_count = len(re.findall(r'\w+', transcript))
     # Calculate speech rate
     speech_rate = word_count / speech_duration
     # Check consistency with previous speech rate
@@ -84,46 +97,27 @@ def calculate_speech_rate(sentence, speech_duration, prev_speech_rate=None):
         consistency_score = 1  # If no previous speech rate available, consider it consistent
     return speech_rate, consistency_score
 
-# Load audio file
-audio_file = "first.wav"
-audio = wave.open(audio_file, 'rb')
+# # Load audio file
+# audio_file = "concat_output.wav"
+# audio = wave.open(audio_file, 'rb')
 
-# Read audio data
-audio_data = np.frombuffer(audio.readframes(-1), dtype=np.int16)
+# # Read audio data
+# audio_data = np.frombuffer(audio.readframes(-1), dtype=np.int16)
 
-# Close audio file
-audio.close()
-
-# Parameters for pitch normalization
-min_pitch = 50  # Minimum pitch in Hz
-max_pitch = 500  # Maximum pitch in Hz
-
-# Calculate intensity
-intensity = calculate_intensity(audio_data)
-print("Intensity:", intensity)
-
-# Calculate pitch
-pitch = calculate_pitch(audio_file)
-print("Pitch:", pitch)
-
-# Calculate pitch variation
-pitch_variation = calculate_pitch_variation(audio_file)
-print("Pitch Variation:", pitch_variation)
-
-# Detect pauses
-total_pause_duration, pause_frequency = detect_pauses(audio_data)
-print("Total Pause Duration:", total_pause_duration)
-print("Pause Frequency:", pause_frequency)
+# # Close audio file
+# audio.close()
 
 # Example sentence for filler words and speech rate calculation
-sentence = "Um, like, I uh think that,actually, err um, we should, you know, uh, do something."
+# sentence = "Um, like, I uh think that,actually, err um, we should, you know, uh, do something."
 
-# Calculate disfluency rate
-disfluency_rate = calculate_disfluency_rate(sentence)
-print("Disfluency Rate:", disfluency_rate)
+# # Calculate disfluency rate
+# disfluency_rate = calculate_disfluency_rate(sentence)
+# print("Disfluency Rate:", disfluency_rate)
 
-# Calculate speech rate (assuming speech duration is known)
-speech_duration = 30  # Example speech duration in seconds
-speech_rate, consistency_score = calculate_speech_rate(sentence, speech_duration)
-print("Speech Rate:", speech_rate)
-print("Consistency Score:", consistency_score)
+# # Calculate speech rate (assuming speech duration is known)
+# speech_duration = 30  # Example speech duration in seconds
+# speech_rate, consistency_score = calculate_speech_rate(sentence, speech_duration)
+# print("Speech Rate:", speech_rate)
+# print("Consistency Score:", consistency_score)
+
+

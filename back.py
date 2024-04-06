@@ -32,9 +32,9 @@ def handle_message(message):
     socketio.send('Message received: ' + message)
 
 window =[]
-max_window_size = 5
+max_window_size = 3
 
-num = 1
+# num = 1
 
 from scipy.signal import hann
 
@@ -58,9 +58,10 @@ import numpy as np
 
 
 def concatenate_bytesio_to_wav(byteio_files, output_file):
-    
+    # global num
     # Open the output WAV file for writing
     with wave.open(output_file, 'wb') as wav_out:
+        
         # Initialize variables to hold parameters
         first_time =True
         
@@ -92,6 +93,7 @@ def concatenate_bytesio_to_wav(byteio_files, output_file):
             wav_out.writeframes(content)
     
     print("Concatenation completed successfully!")
+    # num+=1
 
 # Example usage:
 # Assuming `byteio_files` is a list of io.BytesIO file-like objects and `output_file` is the output WAV file path

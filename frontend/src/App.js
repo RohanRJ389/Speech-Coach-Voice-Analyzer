@@ -67,8 +67,8 @@ console.log("took a clip")
   // To stop recording
   wavRecorder.stop();
   
-  // To get the wav Blob in 32-bit encoding with AudioContext options
-  wavRecorder.getBlob(false, { sampleRate: 16000 }).then(wavBlob => {
+  // // To get the wav Blob in 32-bit encoding with AudioContext options
+  wavRecorder.getBlob(false, { sampleRate: 48000 }).then(wavBlob => {
     
     if (wavBlob) {
       
@@ -83,15 +83,17 @@ console.log("took a clip")
     }
     })
   
-  // // To download the wav file in 32-bit encoding with AudioContext options
-  // wavRecorder.download('myFile.wav',true, { sampleRate:  96000 });
+  // To download the wav file in 32-bit encoding with AudioContext options
+  wavRecorder.download('myFile.wav',true, { sampleRate:  48000 });
 
 }
+
+let clipDuration = 3
 
 function startRecording() {
   
   recordingMode = true
-  recInterval = setInterval(recordOneSec,1000)
+  recInterval = setInterval(recordOneSec,clipDuration * 1000)
 
 }
 function stopRecording() {

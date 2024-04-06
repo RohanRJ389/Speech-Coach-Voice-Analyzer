@@ -32,7 +32,7 @@ def handle_message(message):
     socketio.send('Message received: ' + message)
 
 window =[]
-max_window_size = 20
+max_window_size = 10
 
 import wave
 
@@ -61,7 +61,7 @@ def concatenate_bytesio_to_wav(byteio_files, output_file):
                 # wav_in.close()
                 
                 # Set the parameters for the output WAV file
-                wav_out.setparams((2, 2, 16000, 16000, 'NONE', 'compressed'))
+                wav_out.setparams((2, 2, 48000//2, 16000//2, 'NONE', 'compressed'))
             
             # Write the content of the BytesIO file to the output WAV file
             wav_out.writeframes(content)

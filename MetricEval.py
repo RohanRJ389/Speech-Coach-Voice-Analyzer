@@ -55,7 +55,7 @@ def one_iteration():
     
     print("Speech Rate:", speech_rate)
     print("Consistency Score:", consistency_score)
-    
+    master_score=(consistency_score+intensity+pitch_variation+disfluency_rate)/4
     # File path to save the JSON file
    
     
@@ -64,7 +64,8 @@ def one_iteration():
         "pitch_variation" : pitch_variation,
         "disfluency_rate"  : disfluency_rate,
         "speech_rate" : speech_rate,
-        "consistency_score" : consistency_score,  
+        "consistency_score" : consistency_score,
+        "master_score":master_score,  
         "complete_speech" : complete_speech
     }
     tip = generate_tip(metrics)

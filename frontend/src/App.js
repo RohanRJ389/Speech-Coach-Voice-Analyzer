@@ -3,7 +3,7 @@ import './App.css';
 
 import { useEffect} from "react"
 
-import { getWaveBlob } from 'webm-to-wav-converter';
+import { WavRecorder  } from 'webm-to-wav-converter';
 
 // // Create a new WebSocket connection
 // const socket = new WebSocket('ws://127.0.0.1:5000');
@@ -40,8 +40,7 @@ socket.on('close', function (event) {
     console.log('WebSocket connection closed');
 });
 
-async function blobToBase64(blob, callback) {
-  blob = await getWaveBlob(blob,true);
+function blobToBase64(blob, callback) {
   console.log("after cast to wav")
   console.log(blob)
   var reader = new FileReader();
@@ -50,44 +49,63 @@ async function blobToBase64(blob, callback) {
       var base64Data = reader.result;
       // Remove the prefix (data:image/png;base64,) from the base64 string if needed
       // For example, if the blob is an audio file, you might not have an image prefix.
-      var base64WithoutPrefix = base64Data.split(',')[1];
+    var base64WithoutPrefix = base64Data.split(',')[1];
+    console.log("before callback")
+    // console.log(base64WithoutPrefix)
       callback(base64WithoutPrefix);
   }
 }
 
+let wavRecorder 
+
+function recordOneSec() {
+
+console.log("took a clip")
+  // To start recording
+  wavRecorder.start();
+  
+  // To stop recording
+  wavRecorder.stop();
+  
+  // To get the wav Blob in 32-bit encoding with AudioContext options
+  wavRecorder.getBlob(true, { sampleRate: 48000 }).then(wavBlob => {
+    
+    if (wavBlob) {
+      
+      console.log(wavBlob)
+      
+      blobToBase64(wavBlob, (b64encoding => {
+        
+        socket.emit("media", b64encoding)
+        // console.log(b64encoding)
+      }))
+      
+    }
+    })
+  
+  // // To download the wav file in 32-bit encoding with AudioContext options
+  // wavRecorder.download('myFile.wav',true, { sampleRate:  96000 });
+
+}
+
 function startRecording() {
   
-  // navigator.mediaDevices.enumerateDevices().then(data => console.log(data))
-  if (mediaRecorder == null) {
-    console.log("media recorder not initialized!!")
-    return
-  }
-  mediaRecorder.start(1000);
-  console.log(mediaRecorder.state)
-  
-  mediaRecorder.ondataavailable = (e) => {
-    
-    blobToBase64(e.data, (b64encoding => {
-      
-      socket.emit("media", b64encoding)
-      // console.log(b64encoding)
-    }))
-    
-  };
+  recordingMode = true
+  recInterval = setInterval(recordOneSec,1000)
+
 }
 function stopRecording() {
   
    
-  mediaRecorder.stop();
-  console.log(mediaRecorder.state)
-  
-  mediaRecorder.ondataavailable = null
+  clearInterval(recInterval)  
+  recordingMode = false;
 }
 
 
 
 
-let mediaRecorder = null
+let recordingMode = false
+let recInterval = null
 
 // this will initialize global mediaRecorder
 function initializeMic() {
@@ -104,9 +122,9 @@ function initializeMic() {
   
       // Success callback
       .then((stream) => {
-        mediaRecorder = new MediaRecorder(stream);// GLOBAL mediaRecorder
+        wavRecorder = new WavRecorder();// GLOBAL wavRecorder
         
-        console.log(mediaRecorder)
+        // console.log(mediaRecorder)
         
 
       })
@@ -126,7 +144,7 @@ function App() {
     initializeMic()
   
     return () => {
-      mediaRecorder = null
+      wavRecorder = null
     }
   }, [])
 

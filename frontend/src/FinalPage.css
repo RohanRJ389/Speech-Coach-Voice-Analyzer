@@ -1,0 +1,24 @@
+/* MainPage.css */
+.container {
+    background-color: honeydew;
+    padding: 20px;
+  }
+  
+  .chart-container {
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    background-color: peacock;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .placeholder {
+    height: 200px;
+    background-color: peacock;
+    margin-top: 20px;
+  }
+  

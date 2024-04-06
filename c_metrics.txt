@@ -1,0 +1,316 @@
+{}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1,
+    "complete_speech": "are being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}{
+    "intensity": 0.0008119225120841631,
+    "pitch_variation": 0.13890580157768764,
+    "disfluency_rate": 0.0,
+    "speech_rate": 2.6666666666666665,
+    "consistency_score": 1.0,
+    "complete_speech": "are being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccineare being used for a covert nineteen vaccine"
+}

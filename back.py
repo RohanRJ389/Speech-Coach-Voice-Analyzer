@@ -5,9 +5,6 @@ import logging
 import io
 import wave
 
-def get_loop_status():
-    global loop_should_run
-    return loop_should_run
 
 from flask_cors import CORS
 
@@ -28,6 +25,8 @@ def handle_connect():
     socketio.emit("message","how are you?")
     print('Client connected')
 
+loop_should_run = False
+
 # Event handler for when a client sends a message via WebSocket
 @socketio.on('message')
 def handle_message(message):
@@ -39,8 +38,6 @@ def handle_message(message):
     print('Received message:', message)
     # You can broadcast the message to all connected clients, or perform any other actions here
     socketio.send('Message received: ' + message)
-
-
 
 # num = 1
 

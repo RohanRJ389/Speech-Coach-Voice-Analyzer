@@ -91,10 +91,10 @@ def calculate_speech_rate(transcript, file_name, prev_speech_rate=None):
     # Calculate speech rate
     speech_rate = word_count / speech_duration
     # Check consistency with previous speech rate
-    if prev_speech_rate is not None:
+    if prev_speech_rate is not None and prev_speech_rate !=0 :
         consistency_score = 1 - abs(speech_rate - prev_speech_rate) / prev_speech_rate
     else:
-        consistency_score = 1  # If no previous speech rate available, consider it consistent
+        consistency_score = 1  # If no previous speech rate available or 0 , consider it consistent
     return speech_rate, consistency_score
 
 # # Load audio file

@@ -10,9 +10,9 @@ const DoughnutChart = () => {
 
         // Data for the doughnut chart
         const data = {
-            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple'],
+            labels: ['Simile', 'Normal text', 'Metaphor' , "Questions"],
             datasets: [{
-                data: [12, 19, 3, 5, 2],
+                data: [12, 19, 3 ,6],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.8)',
                     'rgba(54, 162, 235, 0.8)',

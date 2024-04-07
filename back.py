@@ -84,6 +84,16 @@ def get_text():
         return text_content
     except FileNotFoundError:
         return "Text file not found", 404
+  
+import json  
+  
+@app.route('/finalScore')
+def getfinalScore():
+    # Open the JSON file
+    with open('frontend/src/metrics.json', 'r') as file:
+        # Load JSON data from the file
+        data = json.load(file)
+    return str(data["master_score"])
 
 num = 1
 

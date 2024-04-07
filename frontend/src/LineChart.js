@@ -38,9 +38,10 @@ const LineChart = () => {
     datasets: [
       {
         label: 'Master score',
+        labelColour : "white",
         data: metricsData,
         fill: false,
-        borderColor: 'rgba(75, 192, 192, 0.6)',
+        borderColor: 'rgba(255, 255, 255, 1)',
         tension: 1,
       }
     ],

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 // import example from "./example.txt"
 
 
@@ -24,6 +24,9 @@ const [data, setdata] = useState("")
         }
 
     };
+    useEffect(() => {
+        handleClick()
+    },[])
 
     return (
         <button

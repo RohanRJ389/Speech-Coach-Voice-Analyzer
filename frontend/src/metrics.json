@@ -1,10 +1,10 @@
 {
-    "intensity": 0.4,
-    "pitch_variation": 0.2,
-    "fluency_rate": 1,
-    "speech_rate": 0.0,
-    "consistency_score": 1,
-    "master_score": 0.2,
-    "complete_speech": "you should knowyou should nowwhich line which linewhich line which linean internalan internalwhat is the string not updatingwhat is the string not operating master score is not Chanmaster score is not changing fixed pointbut the transcript is the same ok",
-    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
+    "intensity": 0.3,
+    "pitch_variation": 0.3,
+    "fluency_rate": 0.8,
+    "speech_rate": 0.4,
+    "consistency_score": 0.3,
+    "master_score": 0.3,
+    "complete_speech": "so right now the recording is on and as you can see we have a folder called captured audio where we store all the previously it generated audio files is it visible nowcaptured audio where we store all the previously it generated audio files is it visibleso this is generated",
+    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
 }

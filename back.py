@@ -72,6 +72,19 @@ def handle_message(message):
     # You can broadcast the message to all connected clients, or perform any other actions here
     socketio.send('Message received: ' + message)
 
+
+@app.route('/get_text')
+def get_text():
+    # Assuming your text file is named 'corrected.txt' and located in the same directory as your Flask app
+    text_file_path = 'corrected.txt'
+    
+    try:
+        with open(text_file_path, 'r') as file:
+            text_content = file.read()
+        return text_content
+    except FileNotFoundError:
+        return "Text file not found", 404
+
 num = 1
 
 from scipy.signal import hann

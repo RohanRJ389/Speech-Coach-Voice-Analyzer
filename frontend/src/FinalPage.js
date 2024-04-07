@@ -2,7 +2,7 @@
 import React from 'react';
 import LineChart from './LineChartFinal';
 import DoughnutChart from './DoughnutChart';
-import PlaceholderButton from './PlaceHolderButton';
+import PlaceholderButton from './PlaceHolderButton.js';
 
 const Charts = () => {
     return (

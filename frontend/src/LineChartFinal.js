@@ -12,7 +12,7 @@ const LineChart = () => {
         const data = {
             labels: ['.', '.', '.', '.', '.', '.', '.'],
             datasets: [{
-                label: 'Sales',
+                label: 'Master Scores',
                 data: [65, 59, 80, 81, 56, 55, 40],
                 fill: false,
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -32,7 +32,7 @@ const LineChart = () => {
                     },
                     title: {
                         display: true,
-                        text: 'Line Chart Example'
+                        text: 'Line Chart'
                     }
                 }
             }

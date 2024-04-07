@@ -128,8 +128,6 @@ def calculate_engagement_score(similes_detected, questions_detected):
     return normalized_score
 
 
-
-
 #grammatical error
 def check_and_correct_paragraph(paragraph):
     # Split the paragraph into sentences

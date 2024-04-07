@@ -2,6 +2,7 @@ import json
 import wave
 import numpy as np
 from features import calculate_intensity, calculate_pitch_variation, calculate_disfluency_rate, calculate_speech_rate
+from content_features import calculate_engagement_score
 from libraryS2T import speech2Text
 #checking if this gets reflected
 prev_speech_rate = None
@@ -88,7 +89,8 @@ def one_iteration():
         "speech_rate": round(speech_rate,1),
         "consistency_score": round(consistency_score,1),
         "master_score": round(master_score,1),
-        "complete_speech": complete_speech
+        "complete_speech": complete_speech,
+        # "engagement_score" : round(,1)
     }
     if master_score < threshold:
         # Exclude 'complete_speech' from metrics for finding the lowest metric

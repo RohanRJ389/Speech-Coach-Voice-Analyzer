@@ -1,28 +1,91 @@
 {}{
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.2,
+    "consistency_score": 1,
+    "master_score": 0.1,
+    "complete_speech": "again start",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
+}{
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.2,
+    "consistency_score": 1.0,
+    "master_score": 0.1,
+    "complete_speech": "again startok start",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
+}{
+    "intensity": 0.4,
+    "pitch_variation": 0.1,
+    "fluency_rate": 1,
+    "speech_rate": 0.0,
+    "consistency_score": 0.0,
+    "master_score": 0.1,
+    "complete_speech": "again startok start",
+    "tip": "You seem to be speaking a bit quickly. Slowing down slightly might improve your articulation."
+}{
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
+    "speech_rate": 0.7,
+    "consistency_score": 1,
+    "master_score": 0.3,
+    "complete_speech": "again startok startthere are several reasons for every",
+    "tip": "Consider varying your pitch a bit more to keep the audience engaged."
+}{
     "intensity": 0.3,
     "pitch_variation": 0.2,
-    "fluency_rate": 0.9,
-    "speech_rate": 3.3,
-    "consistency_score": 1,
-    "master_score": 0.8,
-    "complete_speech": "so right now the recording is on and as you can see we have a folder called captured audio where we store all the previously it generated audio files is it visible now",
+    "fluency_rate": 1.0,
+    "speech_rate": 2.7,
+    "consistency_score": -2.0,
+    "master_score": 0.9,
+    "complete_speech": "again startok startthere are several reasons for everythere are several reasons for every on the fast learner this means you don't have to spend your valuable time closely monitoring and",
+    "tip": "I'm not sure what feedback to give at the moment."
+}{
+    "intensity": 0.3,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
+    "speech_rate": 3.2,
+    "consistency_score": 0.8,
+    "master_score": 1.0,
+    "complete_speech": "again startok startthere are several reasons for everythere are several reasons for every on the fast learner this means you don't have to spend your valuable time closely monitoring andthis means you don't have to spend your valuable time closely monitoring and supervised when needed for changing demands I love skill myself so as to keep my",
     "tip": "Sounding good! Keep it up."
 }{
     "intensity": 0.3,
     "pitch_variation": 0.2,
     "fluency_rate": 1.0,
+    "speech_rate": 1.8,
+    "consistency_score": 0.6,
+    "master_score": 0.6,
+    "complete_speech": "again startok startthere are several reasons for everythere are several reasons for every on the fast learner this means you don't have to spend your valuable time closely monitoring andthis means you don't have to spend your valuable time closely monitoring and supervised when needed for changing demands I love skill myself so as to keep myneeded for changing demands I love skill myself just keep myself and job second I go",
+    "tip": "Consider varying your pitch a bit more to keep the audience engaged."
+}{
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
     "speech_rate": 1.4,
-    "consistency_score": 0.4,
-    "master_score": 0.4,
-    "complete_speech": "so right now the recording is on and as you can see we have a folder called captured audio where we store all the previously it generated audio files is it visible nowcaptured audio where we store all the previously it generated audio files is it visible",
+    "consistency_score": 0.8,
+    "master_score": 0.5,
+    "complete_speech": "again startok startthere are several reasons for everythere are several reasons for every on the fast learner this means you don't have to spend your valuable time closely monitoring andthis means you don't have to spend your valuable time closely monitoring and supervised when needed for changing demands I love skill myself so as to keep myneeded for changing demands I love skill myself just keep myself and job second I gosecond I go when extra needed I would refer I would hear refer",
+    "tip": "Consider varying your pitch a bit more to keep the audience engaged."
+}{
+    "intensity": 0.4,
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
+    "speech_rate": 2.2,
+    "consistency_score": 0.5,
+    "master_score": 0.7,
+    "complete_speech": "again startok startthere are several reasons for everythere are several reasons for every on the fast learner this means you don't have to spend your valuable time closely monitoring andthis means you don't have to spend your valuable time closely monitoring and supervised when needed for changing demands I love skill myself so as to keep myneeded for changing demands I love skill myself just keep myself and job second I gosecond I go when extra needed I would refer I would hear referI would prefer I would hear refer to an I worked as I have developer as a cross platform for",
     "tip": "Consider varying your pitch a bit more to keep the audience engaged."
 }{
     "intensity": 0.3,
-    "pitch_variation": 0.3,
-    "fluency_rate": 0.8,
-    "speech_rate": 0.4,
-    "consistency_score": 0.3,
-    "master_score": 0.3,
-    "complete_speech": "so right now the recording is on and as you can see we have a folder called captured audio where we store all the previously it generated audio files is it visible nowcaptured audio where we store all the previously it generated audio files is it visibleso this is generated",
-    "tip": "Your voice seems a bit soft. Try projecting a bit more for better clarity."
+    "pitch_variation": 0.2,
+    "fluency_rate": 1.0,
+    "speech_rate": 2.2,
+    "consistency_score": 1.0,
+    "master_score": 0.7,
+    "complete_speech": "again startok startthere are several reasons for everythere are several reasons for every on the fast learner this means you don't have to spend your valuable time closely monitoring andthis means you don't have to spend your valuable time closely monitoring and supervised when needed for changing demands I love skill myself so as to keep myneeded for changing demands I love skill myself just keep myself and job second I gosecond I go when extra needed I would refer I would hear referI would prefer I would hear refer to an I worked as I have developer as a cross platform fordoes app developer as a cross platform for what vision company in the in the in the in Pune as",
+    "tip": "Consider varying your pitch a bit more to keep the audience engaged."
 }

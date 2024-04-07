@@ -13,10 +13,10 @@ cumulative_json_file_path = "c_metrics.txt"
 num =1
 
 weights = {
-    "intensity": 0.25,
-    "pitch_variation": 0.25,
-    "disfluency_rate": 0.3,
-    "speech_rate": 0.2
+    "intensity": 0.09,
+    "pitch_variation": 0.21,
+    "disfluency_rate": 0.4,
+    "speech_rate": 0.3
 }
 
 
@@ -76,7 +76,7 @@ def one_iteration():
                     weights["speech_rate"] * speech_rate)
 
     # Check for low master score and determine feedback
-    threshold = 0.6  # Adjust the threshold as needed
+    threshold = 0.9  # Adjust the threshold as needed
 
 
     # metrics["tip"] = tip
@@ -92,9 +92,9 @@ def one_iteration():
     }
     if master_score < threshold:
         # Exclude 'complete_speech' from metrics for finding the lowest metric
-        metrics_to_evaluate = {metric: value for metric, value in metrics.items() if metric != "master_score" and metric != "complete_speech"}
+        metrics_to_evaluate = {metric: value * (1 - weights.get(metric, 0)) for metric, value in metrics.items() if metric != "master_score" and metric != "complete_speech"}
         if metrics_to_evaluate:
-            # Find the lowest metric
+            # Find the lowest adjusted metric score
             lowest_metric = min(metrics_to_evaluate, key=metrics_to_evaluate.get)
             # Generate tip based on the lowest metric
             tip = generate_tip(lowest_metric)

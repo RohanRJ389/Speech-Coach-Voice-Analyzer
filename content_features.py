@@ -104,6 +104,32 @@ if detect_metaphors==True:
 print("\n")
 print(metaphor_count)
 
+
+def count_questions(text):
+    doc = nlp(text)
+    question_count = 0
+    for sentence in doc.sents:
+        if sentence.text.strip().endswith("?"):
+            question_count += 1
+        elif sentence[0].lemma_ in ["who", "what", "when", "where", "why", "how"]:
+            question_count += 1
+    return question_count
+
+
+def calculate_engagement_score(similes_detected, questions_detected):
+    simile_weight=0.6
+    question_weight=0.4
+    simile_score = simile_weight * similes_detected
+    question_score = question_weight * questions_detected
+    engagement_min=0
+    engagement_max=10
+    engagement_score = simile_score + question_score
+    normalized_score = ((engagement_score - engagement_min) / (engagement_max - engagement_min)) * 10
+    return normalized_score
+
+
+
+
 #grammatical error
 def check_and_correct_paragraph(paragraph):
     # Split the paragraph into sentences

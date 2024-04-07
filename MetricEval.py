@@ -2,6 +2,7 @@ import json
 import wave
 import numpy as np
 from features import calculate_intensity, calculate_pitch_variation, calculate_disfluency_rate, calculate_speech_rate
+from content_features import check_and_correct_paragraph
 from content_features import calculate_engagement_score
 from libraryS2T import speech2Text
 #checking if this gets reflected
@@ -125,5 +126,10 @@ if __name__ == "__main__":
         json_file.write("{}")
     with open(cumulative_json_file_path, "w") as json_file:
         json_file.write("{}")
+    
     while True:
-       one_iteration()
+        one_iteration()
+        with open("transcript.txt", "w") as transcript_file:
+            transcript_file.write(complete_speech)
+        with open("corrected.txt", "w") as corrected_file:
+            corrected_file.write(json.dumps(check_and_correct_paragraph(complete_speech)))

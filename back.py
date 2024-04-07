@@ -76,6 +76,18 @@ def handle_message(message):
 @app.route('/get_text')
 def get_text():
     # Assuming your text file is named 'corrected.txt' and located in the same directory as your Flask app
+    text_file_path = 'transcript.txt'
+    
+    try:
+        with open(text_file_path, 'r') as file:
+            text_content = file.read()
+        return text_content
+    except FileNotFoundError:
+        return "Text file not found", 404
+    
+@app.route('/getc_text')
+def getc_text():
+    # Assuming your text file is named 'corrected.txt' and located in the same directory as your Flask app
     text_file_path = 'corrected.txt'
     
     try:

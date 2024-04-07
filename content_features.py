@@ -142,7 +142,7 @@ def check_and_correct_paragraph(paragraph):
         # If grammatical errors are found, obtain the corrected version
         if matches:
             corrected_sentence = tool.correct(sentence)
-            mistaken_corrected_pairs.append((sentence, corrected_sentence))
+            mistaken_corrected_pairs.append(corrected_sentence)
     
     return mistaken_corrected_pairs
 

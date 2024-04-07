@@ -5,7 +5,8 @@ import React, { useEffect, useState } from 'react';
 
 const PlaceholderButton = () => {
 
-const [data, setdata] = useState("")
+const [datat, setdatat] = useState("")
+const [datac, setdatac] = useState("")
 
     const [isOpen, setIsOpen] = useState(false);
 
@@ -15,9 +16,12 @@ const [data, setdata] = useState("")
     const handleClick = async () => {
         
         try {
-            const response = await fetch("http://127.0.0.1:5000/get_text");
-            const dt = await response.text();
-            setdata(dt)
+            let response = await fetch("http://127.0.0.1:5000/get_text");
+            let dt = await response.text();
+            setdatat(dt)
+             response = await fetch("http://127.0.0.1:5000/getc_text");
+             dt = await response.text();
+            setdatac(dt)
             openModal()
         } catch (error) {
             console.error('Error fetching text file:', error);
@@ -42,9 +46,14 @@ const [data, setdata] = useState("")
             }}
             onClick={handleClick}
         >
-            Grammatical Feedback
-            <p>
-            {data}
+            Transcript of entire speech.
+            <p style={{color: "red"}} >
+            {datat}
+            </p>
+            <br></br>
+            Corrected text.
+            <p style={{color: "green"}} >
+            {datac}
             </p>
         </button>
     );

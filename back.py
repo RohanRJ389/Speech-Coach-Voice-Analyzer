@@ -109,7 +109,8 @@ def getfinalScore():
 
 num = 1
 
-from scipy.signal import hann
+from scipy.signal.windows import hann
+
 
 def apply_fade(data):
     fade_len = 50

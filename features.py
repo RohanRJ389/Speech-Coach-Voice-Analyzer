@@ -76,26 +76,51 @@ def calculate_disfluency_rate(sentence):
 
 
 # Function to calculate speech rate
-def calculate_speech_rate(transcript, file_name, prev_speech_rate=None):
-    
-    speech_duration = None
-    #to find duration 
-    
+import wave
+import re
 
-    with wave.open(file_name) as mywav:
-        speech_duration = mywav.getnframes() // mywav.getframerate()
-        print(f"Length of the WAV file: {speech_duration:.1f} s")
-    
-    # Count words
-    word_count = len(re.findall(r'\w+', transcript))
-    # Calculate speech rate
-    speech_rate = word_count / speech_duration
-    # Check consistency with previous speech rate
-    if prev_speech_rate is not None and prev_speech_rate !=0 :
-        consistency_score = 1 - abs(speech_rate - prev_speech_rate) / prev_speech_rate
-    else:
-        consistency_score = 1  # If no previous speech rate available or 0 , consider it consistent
-    return speech_rate, consistency_score
+def calculate_speech_rate(transcript, file_name, prev_speech_rate=None):
+    speech_duration = None
+
+    try:
+        # Try to open the WAV file and calculate its duration
+        with wave.open(file_name, 'rb') as mywav:
+            # Get the duration in seconds
+            speech_duration = mywav.getnframes() / mywav.getframerate()
+            print(f"Length of the WAV file: {speech_duration:.1f} s")
+
+    except Exception as e:
+        print(f"Error opening or processing the audio file: {e}")
+        return None, None  # Return None if there's an error reading the file
+
+    if speech_duration is None or speech_duration == 0:
+        print("Error: Speech duration is zero or unavailable.")
+        return None, None  # Handle case where speech duration couldn't be determined
+
+    try:
+        # Count words in the transcript
+        word_count = len(re.findall(r'\w+', transcript))
+
+        if speech_duration <= 0:
+            raise ZeroDivisionError("Speech duration is zero or invalid")
+
+        # Calculate speech rate (words per second)
+        speech_rate = word_count / speech_duration
+
+        # Check consistency with the previous speech rate, if available
+        if prev_speech_rate is not None and prev_speech_rate != 0:
+            consistency_score = 1 - abs(speech_rate - prev_speech_rate) / prev_speech_rate
+        else:
+            consistency_score = 1  # If no previous speech rate is available or zero, consider it consistent
+
+        return speech_rate, consistency_score
+
+    except ZeroDivisionError as e:
+        print(f"Error: {e}")
+        return None, None  # Return None for both values if there's a division error
+    except Exception as e:
+        print(f"Error calculating speech rate: {e}")
+        return None, None  # Return None for both values if any other error occurs
 
 # # Load audio file
 # audio_file = "concat_output.wav"

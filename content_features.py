@@ -142,7 +142,7 @@ def check_and_correct_paragraph(paragraph):
         # If grammatical errors are found, obtain the corrected version
         if matches:
             corrected_sentence = tool.correct(sentence)
-            mistaken_corrected_pairs.append(corrected_sentence)
+            mistaken_corrected_pairs.append((sentence, corrected_sentence))  # Store as a (mistaken, corrected) pair
     
     return mistaken_corrected_pairs
 
@@ -151,7 +151,10 @@ mistaken_corrected_pairs = check_and_correct_paragraph(text_grammar)
 
 # Append the mistaken-corrected pairs to the file
 with open("corrected.txt", "a") as file:
+    print(mistaken_corrected_pairs)  # Check its structure
+
     for mistaken, corrected in mistaken_corrected_pairs:
+        
         file.write(f"Mistaken: {mistaken}\n")
 
 

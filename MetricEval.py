@@ -3,7 +3,7 @@ import wave
 import numpy as np
 from features import calculate_intensity, calculate_pitch_variation, calculate_disfluency_rate, calculate_speech_rate
 from content_features import check_and_correct_paragraph
-from content_features import calculate_engagement_score
+# from content_features import calculate_engagement_score
 from libraryS2T import speech2Text
 #checking if this gets reflected
 prev_speech_rate = None
